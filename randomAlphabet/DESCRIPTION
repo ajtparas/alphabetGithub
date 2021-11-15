@@ -1,0 +1,9 @@
+Package: randomAlphabet
+Type: Package
+Title: Output a random letter from the alphabet. 
+Version: 1.0
+Date: 2021-11-15
+Author: Aldrich Paras
+Maintainer: Aldrich Paras <aparas@luc.edu>
+Description:  function get_random_letter requires no input and outputs a letter from the alphabet.
+License: none
